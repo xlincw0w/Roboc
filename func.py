@@ -1,4 +1,4 @@
-﻿# @author xlinc
+﻿# @author xlinc !
 # Openclassrooms project
 
 import labyrinthe

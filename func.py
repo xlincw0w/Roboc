@@ -1,4 +1,4 @@
-﻿# @author Khazem Khaled xlinc
+﻿# @author xlinc
 # Openclassrooms project
 
 import labyrinthe
